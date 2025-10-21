@@ -1,0 +1,5 @@
+{
+  "name": "AI UX Auditor",
+  "description": "An AI-powered tool that analyzes any webpage URL to provide visual reports on load speed, accessibility, and pop-up behavior, helping developers and designers improve user experience.",
+  "requestFramePermissions": []
+}
